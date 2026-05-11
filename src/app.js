@@ -1,4 +1,4 @@
-// CS 300 - Week 2 Lab
+// CS 300 - Week 2 Lab - Branch A Version
 // Author: Jana Jaksic
 
 const greet = (name, course = "CS 300") => {
